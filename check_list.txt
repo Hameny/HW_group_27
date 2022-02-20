@@ -1,0 +1,15 @@
+      Регистрация:
+      Email - Passed/Failed
+      Соцсети - Passed/Failed
+      Валидация полей - Passed/Failed
+      Авторизация:
+      Пользователь активен - Passed/Failed
+      Пользователь не активен - Passed/Failed
+      Восстановление пароля - Passed/Failed
+      Валидация полей - Passed/Failed
+      Профиль:
+      Изменение имени - Passed/Failed
+      Изменение email - Passed/Failed
+      Изменение пароля - Passed/Failed
+      Удаление аккаунта - Passed/Failed
+      Валидация полей - Passed/Failed
